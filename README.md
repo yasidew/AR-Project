@@ -1,7 +1,3 @@
-Absolutely! Here's a **clean, professional version** of your README in plain text format — with clear headings and bold formatting (using all caps and spacing) so it looks great even without markdown:
-
----
-
 **AR PROJECT – MARKER-BASED AUGMENTED REALITY PARK SCENE**
 (CTSE – Modern Topics in Software Engineering)
 
