@@ -87,11 +87,6 @@ ar-project/
 
 ---
 
-**VIDEO DEMO**
-
-A demo video has been recorded (under 5 minutes) to show all four markers in action, including object placement, animations, and audio.
-
----
 
 **NOTES**
 
@@ -100,12 +95,3 @@ A demo video has been recorded (under 5 minutes) to show all four markers in act
 * Sound may auto-play depending on browser permission settings
 
 ---
-
-**LICENSE**
-
-This project is created for academic purposes only (SLIIT – CTSE Final Year Assignment).
-All models and sound assets used are either royalty-free or fall under educational fair use.
-
----
-
-Let me know if you want this in `.docx` or `.pdf` format for submission, or need a version with screenshots! ✅
